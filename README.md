@@ -8,11 +8,11 @@
 
 **Objetivo General**
 
-Aplicar los teas de electromagnetica e implimentarlos en los ejercicios propuestos.
+Aplicar los temas de electromagnetica e implimentarlos en los ejercicios propuestos.
 
 **Objetivo Especifico**
 
-Introducir al los temas de principio de inducción electromagnética.
+Introducir a los temas de principio de inducción electromagnética.
 
 Determinar cantidades desconocidas en un circuito.
 
