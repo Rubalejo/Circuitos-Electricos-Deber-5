@@ -6,9 +6,15 @@
 
 **1.OBJETIVOS**
 
-**Objetico General**
+**Objetivo General**
+
+Aplicar los teas de electromagnetica e implimentarlos en los ejercicios propuestos.
 
 **Objetivo Especifico**
+
+Introducir al los temas de principio de inducción electromagnética.
+
+Determinar cantidades desconocidas en un circuito.
 
 **2. MARCO TEÓRICO**
 
@@ -90,8 +96,13 @@
 
 **5. CONCLUSIONES**
 
-**BIBLIOGRAFÍ**
+Al concluir el trabajo se puedo conocer las implementaciones de los temas vistos en el capitulo 9 y 10 siguiendo los pasos enseñados en clase.
 
+**BIBLIOGRAFÍA**
+
+Rodriguez, D. (2007). FLOYD OCTAVA EDICIÓN Principios de circuitos eléctricos. Principios de Circuitos Eléctricos. https://www.academia.edu/42923009/FLOYD_OCTAVA_EDICI%C3%93N_Principios_de_circuitos_el%C3%A9ctricos
+
+‌
 **RUBRICA**
 
 ![image](https://user-images.githubusercontent.com/105680588/177933353-b0401ed8-6a0e-48d8-9b29-de73e1a12ef2.png)
