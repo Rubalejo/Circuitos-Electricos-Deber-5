@@ -85,3 +85,13 @@
 ![image](https://user-images.githubusercontent.com/105680588/177932836-0f4fa62f-3d32-4c04-9fe3-de588ec3d1b4.png)
 
 ![image](https://user-images.githubusercontent.com/105680588/177932870-31674ffd-f2fa-4365-a38c-f4c2d527defe.png)
+
+**4. VIDEO**
+
+**5. CONCLUSIONES**
+
+**BIBLIOGRAFÍ**
+
+**RUBRICA**
+
+![image](https://user-images.githubusercontent.com/105680588/177933353-b0401ed8-6a0e-48d8-9b29-de73e1a12ef2.png)
