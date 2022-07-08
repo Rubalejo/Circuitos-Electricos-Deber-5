@@ -94,6 +94,8 @@ Determinar cantidades desconocidas en un circuito.
 
 **4. VIDEO**
 
+https://www.youtube.com/watch?v=pW7id0KEWVs&ab_channel=RubenBustos
+
 **5. CONCLUSIONES**
 
 Al concluir el trabajo se puedo conocer las implementaciones de los temas vistos en el capitulo 9 y 10 siguiendo los pasos enseñados en clase.
@@ -102,7 +104,6 @@ Al concluir el trabajo se puedo conocer las implementaciones de los temas vistos
 
 Rodriguez, D. (2007). FLOYD OCTAVA EDICIÓN Principios de circuitos eléctricos. Principios de Circuitos Eléctricos. https://www.academia.edu/42923009/FLOYD_OCTAVA_EDICI%C3%93N_Principios_de_circuitos_el%C3%A9ctricos
 
-‌
 **RUBRICA**
 
 ![image](https://user-images.githubusercontent.com/105680588/177933353-b0401ed8-6a0e-48d8-9b29-de73e1a12ef2.png)
